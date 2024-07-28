@@ -15,6 +15,19 @@ See blog post https://numind.ai/blog/nuextract-a-foundation-model-for-structured
 ## Installation
 To use this script, you need Python installed on your system. This script works with Python 3.6 and above. There are no external dependencies beyond the standard library. You can also run it in colab, make sure to use the T4 accelerator
 
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/rayaneghilene/Mask_Personal_Data.git
+cd Knapsack_pb
+```
+
+### 2. Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have improvements or fixes.
 
